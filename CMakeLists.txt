@@ -13,5 +13,5 @@ FetchContent_Declare(
 )
 FetchContent_MakeAvailable(googletest)
 
-add_subdirectory(9_palindrome_number)
-add_subdirectory(33_search_in_rotated_sorted_array)
+add_subdirectory(0009_palindrome_number)
+add_subdirectory(0033_search_in_rotated_sorted_array)
