@@ -15,4 +15,5 @@ FetchContent_MakeAvailable(googletest)
 
 add_subdirectory(0009_palindrome_number)
 add_subdirectory(0033_search_in_rotated_sorted_array)
+add_subdirectory(0058_length_of_last_word)
 add_subdirectory(0068_sqrt_x)
